@@ -1,6 +1,6 @@
 # Diabetes Prediction Project
 
-This project aims to predict diabetes based on various health parameters. We analyze and build classification models to identify diabetes risk.
+This project aims to predict diabetes based on various health parameters. It analyzes and build classification models to identify diabetes risk.
 
 ## Dataset
 
